@@ -656,13 +656,13 @@ section div div h2{
   position: relative;
 }
 .min_p_container .min_row .min_item:nth-child(1){
-  background: url(../assets/google-img.jpg) center/cover no-repeat;
+  background: url(project-img-1.jpg) center/cover no-repeat;
 }
 .min_p_container .min_row .min_item:nth-child(2){
-  background: url(../assets/project-img-2.jpg) center/cover no-repeat;
+  background: url(project-img-2.jpg) center/cover no-repeat;
 }
 .min_p_container .min_row .min_item:nth-child(3){
-  background: url(../assets/project-img-3.jpg) center/cover no-repeat;
+  background: url(project-img-3.jpg) center/cover no-repeat;
 }
 .min_p_container .min_row .min_item:nth-child(4){
   background: url(../assets/project-img-4.jpg) center/cover no-repeat;
